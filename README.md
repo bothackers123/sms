@@ -2,7 +2,7 @@ apt update && apt upgrade -y
 
 apt install git
 
-git clone https://github.com/Bhai4You/SmS-BomB.git
+git clone https://github.com/bothackers123/sms
 
 cd SmS-BomB
 
